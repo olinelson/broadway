@@ -5,13 +5,15 @@ body{
 a:visited{
   color: white;
 }
+a{
+  color: white;
+}
 
 
 
 #title{
   font-size: 70px;
   font-weight: bold;
-  color: White;
   text-align: center;
 }
 .menubar{
