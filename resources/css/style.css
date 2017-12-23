@@ -15,6 +15,7 @@ a{
   font-size: 70px;
   font-weight: bold;
   text-align: center;
+  color: white;
 }
 .menubar{
   font-size: 18px;
@@ -27,7 +28,8 @@ a{
   background-image: url(../flatiron.png);
   background-position: center;
   background-repeat: no-repeat;
-  padding-bottom: 5px;
+  padding-bottom: 1px;
+  padding-top: 1px;
 
 
 }
@@ -49,4 +51,5 @@ a{
 }
 #footer{
   background-image: url(../flatiron.png);
+  color: white;
 }
