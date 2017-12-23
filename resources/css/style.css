@@ -1,14 +1,20 @@
 body{
   font-family: Helvetica, sans-serif;
+  text-align: center;
+  background-image: url("broadway/resources/flatiron.jpg");
+
 }
+
 #title{
   font-size: 70px;
   font-weight: bold;
-  color: white;
+  color: blue;
   text-align: center;
 }
 .menubar{
   font-size: 18px;
-  text-align: center;
   color: white;
+}
+#header{
+  background-image: url("resources/flatiron.jpg");
 }
